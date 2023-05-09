@@ -11,15 +11,15 @@
          "image": "https://assets.ajio.com/medias/sys_master/root/20220819/Qm9w/62fe856aaeb269176183efe0/ivoc_black_slim_fit_shirt_with_patch_pocket.jpg"
       },
       {
-        "id": "153",
-        "title": "Nike Air Max Plus",
-        "description": "Boy's Preschool Black/Purple",
-        "price": 120,
-        "color": "Black",
-        "gender": "male",
-        "category": "shoes",
-        "image": "https://images.footlocker.com/is/image/EBFL2/B8028001?wid=233&hei=233&fmt=png-alpha"
-     },
+         "id": "76",
+         "title": "GULMOHAR JAIPUR",
+         "description": "Floral Print Flared Kurta",
+         "price": 600,
+         "color": "Pink",
+         "gender": "female",
+         "category": "kurtas",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20220802/JJQS/62e822fdf997dd03e2155120/gulmohar_jaipur_multicoloured_floral_print_flared_kurta.jpg"
+      },
       {
          "id": "3",
          "title": "THE BEAR HOUSE",
@@ -31,6 +31,27 @@
          "image": "https://assets.ajio.com/medias/sys_master/root/20220513/sNUJ/627e1e7af997dd03e2b93cf7/the_bear_house_white_slim_fit_shirt_with_patch_pocket.jpg"
       },
       {
+         "id": "78",
+         "title": "GULMOHAR JAIPUR",
+         "description": "Floral Print Flared Kurta",
+         "price": 800,
+         "color": "Nevy",
+         "gender": "female",
+         "category": "kurtas",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20220322/zZrx/6239e35bf997dd03e22576a3/gulmohar_jaipur_navy_blue_floral_print_flared_kurta.jpg"
+      },
+      {
+         "id": "79",
+         "title": "AKS",
+         "description": "Floral Print A-line Kurta",
+         "price": 700,
+         "color": "yellow",
+         "gender": "female",
+         "category": "kurtas",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20220523/BOjb/628b9adbaeb26921afc8caf7/aks_mustard_floral_print_a-line_kurta.jpg"
+      },
+         
+      {
          "id": "4",
          "title": "THE BEAR HOUSE",
          "description": "Checked Slim Fit Shirt with Patch Pocket",
@@ -40,6 +61,38 @@
          "category": "shirt",
          "image": "https://assets.ajio.com/medias/sys_master/root/20220513/uxVC/627e237cf997dd03e2b9b21b/the_bear_house_grey_checked_slim_fit_shirt_with_patch_pocket.jpg"
       },
+      {
+         "id": "80",
+         "title": "ZIYAA",
+         "description": "Leaf Print A-Line Kurta",
+         "price": 620,
+         "color": "Black",
+         "gender": "female",
+         "category": "kurtas",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20220404/8qkF/624ad909aeb26921af0894a7/ziyaa_black_leaf_print_a-line_kurta.jpg"
+      },
+      {
+         "id": "81",
+         "title": "ETHNIC JUNCTION",
+         "description": "Embellished Unstitched Dress Material",
+         "price": 619,
+         "color": "Red",
+         "gender": "female",
+         "category": "dress-material",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20220525/i6Gp/628d5b09aeb26921afd2a938/ethnic_junction_purple_embellished_unstitched_dress_material.jpg"
+      },
+      {
+         "id": "82",
+         "title": "ETHNIC JUNCTION",
+         "description": "Embellished 3-Piece Unstitched Dress Material",
+         "price": 799,
+         "color": "Peach",
+         "gender": "female",
+         "category": "dress-material",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20221018/sfq3/634e8c6af997ddfdbd2f4b34/ethnic_junction_peach_embellished_3-piece_unstitched_dress_material.jpg"
+      },
+     
+  
       {
          "id": "5",
          "title": "THE BEAR HOUSE",
@@ -61,6 +114,108 @@
          "image": "https://assets.ajio.com/medias/sys_master/root/20221109/SI6r/636b8e9af997ddfdbd663ee4/dennislingo_premium_attire_blue_checked_slim_fit_shirt.jpg"
       },
       {
+         "id": "86",
+         "title": "SAFAA",
+         "description": "Leaf-Woven Semi-Stitched Straight Dress Material",
+         "price": 1656,
+         "color": "Blue",
+         "gender": "female",
+         "category": "dress-material",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20221130/CBIx/63867001f997ddfdbda9d5a1/safaa_navy_blue_leaf-woven_semi-stitched_straight_dress_material____.jpg"
+      },
+      {
+         "id": "87",
+         "title": "LIMDO",
+         "description": "Floral Woven Soft Silk Saree",
+         "price": 1000,
+         "color": "Blue",
+         "gender": "female",
+         "category": "sarees",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20230120/cTPd/63caaf5faeb269c651ef355f/limdo_teal_floral_woven_soft_silk_saree_.jpg"
+      },
+      {
+         "id": "88",
+         "title": "DWINI",
+         "description": "Georgette Saree With Sequence Lace Border",
+         "price": 750,
+         "color": "Grey",
+         "gender": "female",
+         "category": "sarees",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20220405/3o8e/624b622baeb26921af0b6bef/dwini_grey_%26_black__georgette_saree_with_sequence_lace_border_.jpg"
+      },
+      {
+         "id": "89",
+         "title": "ANJANEYA SAREES",
+         "description": "Banarasi Kanjivaram Silk Saree",
+         "price": 1050,
+         "color": "Black",
+         "gender": "female",
+         "category": "sarees",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20230125/tw8C/63d13f43aeb269c651f94ca1/anjaneya_sarees_black_banarasi_kanjivaram_silk_saree.jpg"
+      },
+     
+      {
+        "id": "34",
+        "title": "KETCH",
+        "description": "Mid-Wash Slim Fit Jeans",
+        "price": 595,
+        "color": "Blue",
+        "gender": "male",
+        "category": "jeans",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20211123/Npzy/619d0900aeb2690110d311ba/ketch_blue_mid-wash_slim_fit_jeans.jpg"
+     },
+      {
+         "id": "148",
+         "title": "Nike Air Force 1 Shadow",
+         "description": "Women's Sail/Silver?Citron Tint",
+         "price": 130,
+         "color": "Pink",
+         "gender": "female",
+         "category": "shoes",
+         "image": "https://images.footlocker.com/is/image/EBFL2/R7883101?wid=233&hei=233&fmt=png-alpha"
+      },
+      {
+         "id": "149",
+         "title": "Jordan AJ 11 CMFT Low",
+         "description": "Women's White/Blue",
+         "price": 130,
+         "color": "White",
+         "gender": "female",
+         "category": "shoes",
+         "image": "https://images.footlocker.com/is/image/EBFL2/V2629100?wid=233&hei=233&fmt=png-alpha"
+      },
+       {
+          "id": "10",
+          "title": "LEE COOPER",
+          "description": "Shirt with Flap Pockets",
+          "price": 1000,
+          "color": "Olive",
+          "gender": "male",
+          "category": "shirt",
+          "image": "https://assets.ajio.com/medias/sys_master/root/20221118/0ScG/637727eef997ddfdbd82d944/lee_cooper_olive_shirt_with_flap_pockets.jpg"
+       },
+      
+       {
+          "id": "63",
+          "title": "GULMOHAR JAIPUR",
+          "description": "Floral Embroidered Flared Kurta",
+          "price": 874,
+          "color": "Red",
+          "gender": "female",
+          "category": "kurtas",
+          "image": "https://assets.ajio.com/medias/sys_master/root/20221229/eRcp/63acb0c4aeb269659c14a557/gulmohar_jaipur_red_floral_embroidered_flared_kurta_.jpg"
+       },
+       {
+          "id": "64",
+          "title": "FASHOR",
+          "description": "Embroidered Round-Neck Straight Kurta",
+          "price": 1247,
+          "color": "Pink",
+          "gender": "female",
+          "category": "kurtas",
+          "image": "https://assets.ajio.com/medias/sys_master/root/20221012/RIRd/6346fd9ff997ddfdbd24735b/fashor_pink_embroidered_round-neck_straight_kurta.jpg"
+       },
+       {
          "id": "7",
          "title": "DENNISLINGO PREMIUM ATTIRE",
          "description": "Full Sleeves Slim Fit Shirt",
@@ -70,6 +225,37 @@
          "category": "shirt",
          "image": "https://assets.ajio.com/medias/sys_master/root/20230102/wJfs/63b2fe3eaeb269659c1e09e8/dennislingo_premium_attire_green_full_sleeves_slim_fit_shirt.jpg"
       },
+       {
+          "id": "65",
+          "title": "GULMOHAR JAIPUR",
+          "description": "Leaf Print Flared Kurta",
+          "price": 874,
+          "color": "White",
+          "gender": "female",
+          "category": "kurtas",
+          "image": "https://assets.ajio.com/medias/sys_master/root/20230103/p1ac/63b3e821f997ddfdbd0c4862/gulmohar_jaipur_white_leaf_print_flared_kurta.jpg"
+       },
+       {
+          "id": "66",
+          "title": "GULMOHAR JAIPUR",
+          "description": "Floral Print Flared Kurta",
+          "price": 999,
+          "color": "Pink",
+          "gender": "female",
+          "category": "kurtas",
+          "image": "https://assets.ajio.com/medias/sys_master/root/20220809/HGuf/62f1734bf997dd03e2327438/gulmohar_jaipur_white_floral_print_flared_kurta.jpg"
+       },
+       {
+          "id": "67",
+          "title": "GLAM ROOTS",
+          "description": "Floral Flared Kurta",
+          "price": 760,
+          "color": "Red",
+          "gender": "female",
+          "category": "kurtas",
+          "image": "https://assets.ajio.com/medias/sys_master/root/20220705/eLhp/62c358e6aeb26921af606f2d/glam_roots_wine_floral_flared_kurta.jpg"
+       },
+     
       {
          "id": "8",
          "title": "THE BEAR HOUSE",
@@ -90,87 +276,7 @@
          "category": "shirt",
          "image": "https://assets.ajio.com/medias/sys_master/root/h3b/h74/15814258327582/the_indian_garage_co_blue_checked_slim_fit_shirt.jpg"
       },
-      {
-        "id": "148",
-        "title": "Nike Air Force 1 Shadow",
-        "description": "Women's Sail/Silver?Citron Tint",
-        "price": 130,
-        "color": "Pink",
-        "gender": "female",
-        "category": "shoes",
-        "image": "https://images.footlocker.com/is/image/EBFL2/R7883101?wid=233&hei=233&fmt=png-alpha"
-     },
-     {
-        "id": "149",
-        "title": "Jordan AJ 11 CMFT Low",
-        "description": "Women's White/Blue",
-        "price": 130,
-        "color": "White",
-        "gender": "female",
-        "category": "shoes",
-        "image": "https://images.footlocker.com/is/image/EBFL2/V2629100?wid=233&hei=233&fmt=png-alpha"
-     },
-      {
-         "id": "10",
-         "title": "LEE COOPER",
-         "description": "Shirt with Flap Pockets",
-         "price": 1000,
-         "color": "Olive",
-         "gender": "male",
-         "category": "shirt",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20221118/0ScG/637727eef997ddfdbd82d944/lee_cooper_olive_shirt_with_flap_pockets.jpg"
-      },
      
-      {
-         "id": "63",
-         "title": "GULMOHAR JAIPUR",
-         "description": "Floral Embroidered Flared Kurta",
-         "price": 874,
-         "color": "Red",
-         "gender": "female",
-         "category": "kurtas",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20221229/eRcp/63acb0c4aeb269659c14a557/gulmohar_jaipur_red_floral_embroidered_flared_kurta_.jpg"
-      },
-      {
-         "id": "64",
-         "title": "FASHOR",
-         "description": "Embroidered Round-Neck Straight Kurta",
-         "price": 1247,
-         "color": "Pink",
-         "gender": "female",
-         "category": "kurtas",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20221012/RIRd/6346fd9ff997ddfdbd24735b/fashor_pink_embroidered_round-neck_straight_kurta.jpg"
-      },
-      {
-         "id": "65",
-         "title": "GULMOHAR JAIPUR",
-         "description": "Leaf Print Flared Kurta",
-         "price": 874,
-         "color": "White",
-         "gender": "female",
-         "category": "kurtas",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20230103/p1ac/63b3e821f997ddfdbd0c4862/gulmohar_jaipur_white_leaf_print_flared_kurta.jpg"
-      },
-      {
-         "id": "66",
-         "title": "GULMOHAR JAIPUR",
-         "description": "Floral Print Flared Kurta",
-         "price": 999,
-         "color": "Pink",
-         "gender": "female",
-         "category": "kurtas",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20220809/HGuf/62f1734bf997dd03e2327438/gulmohar_jaipur_white_floral_print_flared_kurta.jpg"
-      },
-      {
-         "id": "67",
-         "title": "GLAM ROOTS",
-         "description": "Floral Flared Kurta",
-         "price": 760,
-         "color": "Red",
-         "gender": "female",
-         "category": "kurtas",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20220705/eLhp/62c358e6aeb26921af606f2d/glam_roots_wine_floral_flared_kurta.jpg"
-      },
       {
          "id": "68",
          "title": "KIMAYRA",
@@ -182,6 +288,37 @@
          "image": "https://assets.ajio.com/medias/sys_master/root/20221212/inn7/63976868aeb269659ce473e6/kimayra_pink_leaf_print_flared_kurta.jpg"
       },
       {
+         "id": "53",
+         "title": "LEE COOPER",
+         "description": "Lightly Washed Slim Jeans",
+         "price": 1372,
+         "color": "Grey",
+         "gender": "male",
+         "category": "jeans",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20220711/GkO7/62cc497faeb26921af70c79e/lee_cooper_grey_lightly_washed_slim_jeans.jpg"
+      },
+      {
+         "id": "98",
+         "title": "HRITIKA",
+         "description": "Mirror Work Saree with Blouse Piece",
+         "price": 704,
+         "color": "Pink",
+         "gender": "female",
+         "category": "sarees",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20220805/KQKW/62ec5bceaeb26921afc8319b/hritika_pink_mirror_work_saree_with_blouse_piece.jpg"
+      },
+      {
+         "id": "54",
+         "title": "KETCH",
+         "description": "Mid-Wash Jogger Jeans with Slip Pockets",
+         "price": 693,
+         "color": "Grey",
+         "gender": "male",
+         "category": "jeans",
+         "image": "https://assets.ajio.com/medias/sys_master/root/20211029/lK8n/617b2d79aeb2690110b095c8/ketch_grey_mid-wash_jogger_jeans_with_slip_pockets.jpg"
+      },
+      
+      {
          "id": "69",
          "title": "GULMOHAR JAIPUR",
          "description": "Embellished Flared Kurta",
@@ -191,6 +328,17 @@
          "category": "kurtas",
          "image": "https://assets.ajio.com/medias/sys_master/root/20221230/xDmD/63aefd30f997ddfdbd058b91/gulmohar_jaipur_maroon_embellished_flared_kurta.jpg"
       },
+     
+        {
+           "id": "15",
+           "title": "LOUIS MONARCH",
+           "description": "Striped Regular Fit Shirt",
+           "price": 608,
+           "color": "Blue",
+           "gender": "male",
+           "category": "shirt",
+           "image": "https://assets.ajio.com/medias/sys_master/root/20211028/dScI/6179bb83aeb2690110ae1715/louis_monarch_blue_striped_regular_fit_shirt.jpg"
+        },
       {
          "id": "70",
          "title": "AKS",
@@ -262,26 +410,7 @@
         "category": "shirt",
         "image": "https://assets.ajio.com/medias/sys_master/root/20220513/9JDC/627e2478f997dd03e2b9c6d8/the_bear_house_blue_checked_slim_fit_shirt_with_patch_pocket.jpg"
      },
-     {
-      "id": "98",
-      "title": "HRITIKA",
-      "description": "Mirror Work Saree with Blouse Piece",
-      "price": 704,
-      "color": "Pink",
-      "gender": "female",
-      "category": "sarees",
-      "image": "https://assets.ajio.com/medias/sys_master/root/20220805/KQKW/62ec5bceaeb26921afc8319b/hritika_pink_mirror_work_saree_with_blouse_piece.jpg"
-   },
-     {
-        "id": "15",
-        "title": "LOUIS MONARCH",
-        "description": "Striped Regular Fit Shirt",
-        "price": 608,
-        "color": "Blue",
-        "gender": "male",
-        "category": "shirt",
-        "image": "https://assets.ajio.com/medias/sys_master/root/20211028/dScI/6179bb83aeb2690110ae1715/louis_monarch_blue_striped_regular_fit_shirt.jpg"
-     },
+     
      {
         "id": "16",
         "title": "THE BEAR HOUSE",
@@ -402,6 +531,16 @@
         "category": "shirt",
         "image": "https://assets.ajio.com/medias/sys_master/root/20220315/Hd6f/6230aa80aeb26921afd9ec08/ntwk_white_slim_fit_shirt_with_mandarin_collar.jpg"
      },
+     {
+      "id": "153",
+      "title": "Nike Air Max Plus",
+      "description": "Boy's Preschool Black/Purple",
+      "price": 120,
+      "color": "Black",
+      "gender": "male",
+      "category": "shoes",
+      "image": "https://images.footlocker.com/is/image/EBFL2/B8028001?wid=233&hei=233&fmt=png-alpha"
+   },
      {
         "id": "27",
         "title": "BRITISH CLUB",
@@ -625,26 +764,7 @@
         "category": "jeans",
         "image": "https://assets.ajio.com/medias/sys_master/root/20220623/yoSP/62b49e08aeb26921af430cc2/john_players_jeans_navy_blue_skinny_fit_mid-rise_jeans.jpg"
      },
-     {
-        "id": "53",
-        "title": "LEE COOPER",
-        "description": "Lightly Washed Slim Jeans",
-        "price": 1372,
-        "color": "Grey",
-        "gender": "male",
-        "category": "jeans",
-        "image": "https://assets.ajio.com/medias/sys_master/root/20220711/GkO7/62cc497faeb26921af70c79e/lee_cooper_grey_lightly_washed_slim_jeans.jpg"
-     },
-     {
-        "id": "54",
-        "title": "KETCH",
-        "description": "Mid-Wash Jogger Jeans with Slip Pockets",
-        "price": 693,
-        "color": "Grey",
-        "gender": "male",
-        "category": "jeans",
-        "image": "https://assets.ajio.com/medias/sys_master/root/20211029/lK8n/617b2d79aeb2690110b095c8/ketch_grey_mid-wash_jogger_jeans_with_slip_pockets.jpg"
-     },
+    
      {
         "id": "55",
         "title": "JOHN PLAYERS JEANS",
@@ -755,66 +875,7 @@
          "category": "kurtas",
          "image": "https://assets.ajio.com/medias/sys_master/root/20220629/GBZP/62bb6573f997dd03e2a55d6c/marcia_white_floral_embroidered_straight_kurta.jpg"
       },
-      {
-         "id": "76",
-         "title": "GULMOHAR JAIPUR",
-         "description": "Floral Print Flared Kurta",
-         "price": 600,
-         "color": "Pink",
-         "gender": "female",
-         "category": "kurtas",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20220802/JJQS/62e822fdf997dd03e2155120/gulmohar_jaipur_multicoloured_floral_print_flared_kurta.jpg"
-      },
-      {
-         "id": "78",
-         "title": "GULMOHAR JAIPUR",
-         "description": "Floral Print Flared Kurta",
-         "price": 800,
-         "color": "Nevy",
-         "gender": "female",
-         "category": "kurtas",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20220322/zZrx/6239e35bf997dd03e22576a3/gulmohar_jaipur_navy_blue_floral_print_flared_kurta.jpg"
-      },
-      {
-         "id": "79",
-         "title": "AKS",
-         "description": "Floral Print A-line Kurta",
-         "price": 700,
-         "color": "yellow",
-         "gender": "female",
-         "category": "kurtas",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20220523/BOjb/628b9adbaeb26921afc8caf7/aks_mustard_floral_print_a-line_kurta.jpg"
-      },
-      {
-         "id": "80",
-         "title": "ZIYAA",
-         "description": "Leaf Print A-Line Kurta",
-         "price": 620,
-         "color": "Black",
-         "gender": "female",
-         "category": "kurtas",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20220404/8qkF/624ad909aeb26921af0894a7/ziyaa_black_leaf_print_a-line_kurta.jpg"
-      },
-      {
-         "id": "81",
-         "title": "ETHNIC JUNCTION",
-         "description": "Embellished Unstitched Dress Material",
-         "price": 619,
-         "color": "Red",
-         "gender": "female",
-         "category": "dress-material",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20220525/i6Gp/628d5b09aeb26921afd2a938/ethnic_junction_purple_embellished_unstitched_dress_material.jpg"
-      },
-      {
-         "id": "82",
-         "title": "ETHNIC JUNCTION",
-         "description": "Embellished 3-Piece Unstitched Dress Material",
-         "price": 799,
-         "color": "Peach",
-         "gender": "female",
-         "category": "dress-material",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20221018/sfq3/634e8c6af997ddfdbd2f4b34/ethnic_junction_peach_embellished_3-piece_unstitched_dress_material.jpg"
-      },
+     
       
       {
         "id": "33",
@@ -846,57 +907,7 @@
          "category": "dress-material",
          "image": "https://assets.ajio.com/medias/sys_master/root/20220902/wD5X/63124a2baeb269dbb3683292/ethnic_yard_green_embroidered_semi-stitched_anarkali_dress_material.jpg"
       },
-      {
-         "id": "86",
-         "title": "SAFAA",
-         "description": "Leaf-Woven Semi-Stitched Straight Dress Material",
-         "price": 1656,
-         "color": "Blue",
-         "gender": "female",
-         "category": "dress-material",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20221130/CBIx/63867001f997ddfdbda9d5a1/safaa_navy_blue_leaf-woven_semi-stitched_straight_dress_material____.jpg"
-      },
-      {
-         "id": "87",
-         "title": "LIMDO",
-         "description": "Floral Woven Soft Silk Saree",
-         "price": 1000,
-         "color": "Blue",
-         "gender": "female",
-         "category": "sarees",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20230120/cTPd/63caaf5faeb269c651ef355f/limdo_teal_floral_woven_soft_silk_saree_.jpg"
-      },
-      {
-         "id": "88",
-         "title": "DWINI",
-         "description": "Georgette Saree With Sequence Lace Border",
-         "price": 750,
-         "color": "Grey",
-         "gender": "female",
-         "category": "sarees",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20220405/3o8e/624b622baeb26921af0b6bef/dwini_grey_%26_black__georgette_saree_with_sequence_lace_border_.jpg"
-      },
-      {
-         "id": "89",
-         "title": "ANJANEYA SAREES",
-         "description": "Banarasi Kanjivaram Silk Saree",
-         "price": 1050,
-         "color": "Black",
-         "gender": "female",
-         "category": "sarees",
-         "image": "https://assets.ajio.com/medias/sys_master/root/20230125/tw8C/63d13f43aeb269c651f94ca1/anjaneya_sarees_black_banarasi_kanjivaram_silk_saree.jpg"
-      },
-     
-      {
-        "id": "34",
-        "title": "KETCH",
-        "description": "Mid-Wash Slim Fit Jeans",
-        "price": 595,
-        "color": "Blue",
-        "gender": "male",
-        "category": "jeans",
-        "image": "https://assets.ajio.com/medias/sys_master/root/20211123/Npzy/619d0900aeb2690110d311ba/ketch_blue_mid-wash_slim_fit_jeans.jpg"
-     },
+      
       {
          "id": "101",
          "title": "GIBELLE",
