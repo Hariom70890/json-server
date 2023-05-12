@@ -1774,7 +1774,12 @@
          "email": "bipinBabu@gmail.com",
          "password": "bipin123"
          
-      }
+      },
+      {
+         "id":1000,
+         "email" : "admin",
+         "password" : "admin"
+       }
    ],
    "cart": [
       {
